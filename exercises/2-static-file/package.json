@@ -1,0 +1,15 @@
+{
+  "name": "intro-to-node-js-2-static-file",
+  "version": "1.0.0",
+  "description": "Hello world!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}

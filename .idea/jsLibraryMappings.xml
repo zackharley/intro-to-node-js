@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <includedPredefinedLibrary name="Node.js Core" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/1-hello-world/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/2-static-file/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/3-static-files/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/4-synchronous-io/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/5-asynchronous-io/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/6-consuming-apis/node_modules" />
+    <excludedPredefinedLibrary name="intro-to-node-js/exercises/7-making-your-own-api/node_modules" />
+  </component>
+</project>
